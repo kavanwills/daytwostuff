@@ -12,4 +12,5 @@ x = pd.read_csv("penguins.csv")
 #%%
 # We use a requirements.txt file to allow fututre users to access the necessary packages and versions.
 #%%
-# Recipe: Install necessary extensions in VS Code (Data Wrangler,), create a file (if .py add ipykernel for interactive), activate virtual environment in terminal, then pip install requirements.txt
+# Recipe: Install necessary extensions in VS Code (Python, Data Wrangler, Jupyter, etc.), create a file (if .py add ipykernel for interactive), activate virtual environment in terminal, then make a requirements.txt file with any packages/versions you need
+# %%
